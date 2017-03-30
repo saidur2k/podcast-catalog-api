@@ -1,0 +1,9 @@
+{
+  "name": "podcast-catalog-api",
+  "version": "1.0.0",
+  "description": "API to catalog podcast subscriptions Edit",
+  "main": "server.js",
+  "repository": "git@github.com:saidur2k/podcast-catalog-api.git",
+  "author": "Saidur Rahman <saidur2k@hotmail.com> (http://rudias.com/)",
+  "license": "MIT"
+}
