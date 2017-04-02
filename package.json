@@ -11,8 +11,11 @@
   "author": "Saidur Rahman <saidur2k@hotmail.com> (http://rudias.com/)",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "4.0.0",
     "hapi": "^16.1.0",
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.4",
+    "winston": "2.3.1",
+    "winston-loggly-bulk": "1.4.1"
   },
   "devDependencies": {
     "nodemon": "^1.11.0",
