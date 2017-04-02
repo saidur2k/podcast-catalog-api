@@ -3,9 +3,9 @@
 module.exports = [
   {
     id: 1,
-    name: 'Podcast A',
+    name: 'B Podcast A',
     website: 'www.podcast-a.com',
-    twitter: '@pdocastA',
+    twitter: '@podcastA',
     slug: 'podcast-a',
     episodes: [
       'episode 1',
@@ -14,9 +14,9 @@ module.exports = [
   },
   {
     id: 2,
-    name: 'Podcast B',
+    name: 'C Podcast B',
     website: 'www.podcast-b.com',
-    twitter: '@pdocastB',
+    twitter: '@podcastB',
     slug: 'podcast-b',
     episodes: [
       'episode 3',
@@ -25,9 +25,9 @@ module.exports = [
   },
   {
     id: 3,
-    name: 'Podcast C',
+    name: 'A Podcast C',
     website: 'www.podcast-c.com',
-    twitter: '@pdocastC',
+    twitter: '@podcastC',
     slug: 'podcast-c',
     episodes: [
       'episode 5',
