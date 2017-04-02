@@ -22,7 +22,7 @@ const createPodcastSlug = (request, reply) => {
 const getTwitterImage = (request, reply) => {
   const slugFromRequest = request.params.slug
   const twitterHandle = podcastsData.find(
-    (podcast) => podcast.slug == slugFromRequest
+    (podcast) => podcast.slug === slugFromRequest
   )
 
   if (!twitterHandle) {
